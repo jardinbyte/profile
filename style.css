@@ -14,8 +14,8 @@ body{
 
 /* ================= WINDOW ================= */
 .win{
-  width:360px;          /* PORTRAIT / HP STYLE */
-  max-width:95vw;
+  width:520px;
+  max-width:92vw;
   background:#efefef;
   border:2px solid #000;
 }
